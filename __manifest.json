@@ -1,7 +1,7 @@
 {
     "name": "Finapp",
     "short_name": "Finapp",
-    "start_url": "app-register.html",
+    "start_url": "index.html",
     "display": "standalone",
     "scope" : "/",
     "background_color": "#000000",
